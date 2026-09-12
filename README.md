@@ -9,4 +9,4 @@ Goals:
 - Understand customer purchase and repayment behaviour
 - Segment customers and identify key segments
 - Estimate customer lifetime value (CLV) and churn risk
-- Provide simple recommendations to improve retention and revenue
+- Provide simple recommendations to improve retention and revenue.
